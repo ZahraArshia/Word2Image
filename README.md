@@ -6,7 +6,7 @@ This project downloads images for Arabic words from Google Images.
 * Python 3.7+
 * Google Images Search library
   
-  `pip install google_images_search`
+  `pip install googleImagesSearch`
 
 ### Setup
 Clone this repository to your desired folder:
